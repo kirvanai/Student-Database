@@ -1,0 +1,14 @@
+C:\Users\kirva\Documents\Grand Circus\Class Repo Oct23\Student Database\Student Database\bin\Debug\net6.0\Student Database.exe
+C:\Users\kirva\Documents\Grand Circus\Class Repo Oct23\Student Database\Student Database\bin\Debug\net6.0\Student Database.deps.json
+C:\Users\kirva\Documents\Grand Circus\Class Repo Oct23\Student Database\Student Database\bin\Debug\net6.0\Student Database.runtimeconfig.json
+C:\Users\kirva\Documents\Grand Circus\Class Repo Oct23\Student Database\Student Database\bin\Debug\net6.0\Student Database.dll
+C:\Users\kirva\Documents\Grand Circus\Class Repo Oct23\Student Database\Student Database\bin\Debug\net6.0\Student Database.pdb
+C:\Users\kirva\Documents\Grand Circus\Class Repo Oct23\Student Database\Student Database\obj\Debug\net6.0\Student Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirva\Documents\Grand Circus\Class Repo Oct23\Student Database\Student Database\obj\Debug\net6.0\Student Database.AssemblyInfoInputs.cache
+C:\Users\kirva\Documents\Grand Circus\Class Repo Oct23\Student Database\Student Database\obj\Debug\net6.0\Student Database.AssemblyInfo.cs
+C:\Users\kirva\Documents\Grand Circus\Class Repo Oct23\Student Database\Student Database\obj\Debug\net6.0\Student Database.csproj.CoreCompileInputs.cache
+C:\Users\kirva\Documents\Grand Circus\Class Repo Oct23\Student Database\Student Database\obj\Debug\net6.0\Student Database.dll
+C:\Users\kirva\Documents\Grand Circus\Class Repo Oct23\Student Database\Student Database\obj\Debug\net6.0\refint\Student Database.dll
+C:\Users\kirva\Documents\Grand Circus\Class Repo Oct23\Student Database\Student Database\obj\Debug\net6.0\Student Database.pdb
+C:\Users\kirva\Documents\Grand Circus\Class Repo Oct23\Student Database\Student Database\obj\Debug\net6.0\Student Database.genruntimeconfig.cache
+C:\Users\kirva\Documents\Grand Circus\Class Repo Oct23\Student Database\Student Database\obj\Debug\net6.0\ref\Student Database.dll
